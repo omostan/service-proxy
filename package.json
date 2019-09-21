@@ -1,6 +1,6 @@
 { 
    "name":"@omostan/service-proxy",
-   "version":"1.0.1",
+   "version":"1.0.2",
    "description":"A generic Service Proxy that can be used to call JSON Services generically using jQuery.",
    "author":"Stanley Omoregie",
    "repository":{ 
@@ -10,15 +10,10 @@
    "homepage":"https://github.com/omostan/service-proxy",
    "main": "service-proxy.min.js",
    "keywords":[ 
-      "angular",
-      "angularjs",
-      "angular-js",
-      "directive",
-      "component",
-      "date",
-      "daterangepicker",
-      "datepicker",
-      "daterange"
+      "wcf",
+      "proxy",
+      "service",
+      "proxy-service"
    ],
    "license":"MIT",
    "peerDependencies":{ 

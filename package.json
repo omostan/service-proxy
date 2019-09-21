@@ -1,6 +1,6 @@
 { 
    "name":"@omostan/service-proxy",
-   "version":"1.0.0",
+   "version":"1.0.1",
    "description":"A generic Service Proxy that can be used to call JSON Services generically using jQuery.",
    "author":"Stanley Omoregie",
    "repository":{ 
